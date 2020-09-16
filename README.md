@@ -1,2 +1,1 @@
-# fun-with-kotlin
-Workshop: Funktional Programmieren mit Kotlin
+# Funktional Programmieren mit Kotlin
